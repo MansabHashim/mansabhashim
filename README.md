@@ -57,7 +57,7 @@ Other Tools & Platforms:
 
 - 🌐 Portfolio: [mansab.vercel.app](https://mansab.vercel.app)
 - LinkedIn: [linkedin.com/in/mansabhashim](https://linkedin.com/in/mansabhashim)
-- X: [@mansabhashim](https://x.com/mansabhashim)
+- Twitter/X: [@mansabhashim](https://x.com/mansabhashim)
 - Email: devmansab@gmail.com
 
 ---
