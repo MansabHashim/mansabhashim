@@ -20,9 +20,9 @@ I'm a **front-end developer** focused on building fast, responsive, and user-fri
 ### 🛠️ Tech Stack
 
 **Front-end:**  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)  
-![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js&logoColor=white&style=flat)  
-![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
+[React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)  
+[Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js&logoColor=white&style=flat)  
+[Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
 
 **Back-end (Basic):**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)  
